@@ -1,4 +1,4 @@
-# Repository for San Antonio de Areco's Urban Water Network Expansion 
+# San Antonio de Areco's Urban Water Network Expansion 
 
 Project expanding the water infrastructure service in the southern area of the city of [San Antonio de Areco](https://goo.gl/maps/DkiQZJwyMews3SYH7).
 
